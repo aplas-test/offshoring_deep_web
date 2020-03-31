@@ -22,7 +22,47 @@
       "months_to_renew_support": "17",
       "sme_email": "Bary.Breheny@memento.net.au",
       "vendor_phone": "+996 555 708 4434",
-      "investment_number": "190"
+      "investment_number": "190",
+      "integrations": [
+        {
+          "id": "int-034",
+          "name": "INT-034",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+          "sourceApplicationId": "offshoring_deep_web",
+          "targetApplicationId": "hyperlocal",
+          "logical_server": "A2A",
+          "status_color": "#00FF00",
+          "pattern": "Async Response",
+          "golive_date": "30/3/17",
+          "sme_name": "Maridel Finlan",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "mfinlan9@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "30/4/17"
+        },
+        {
+          "id": "int-294",
+          "name": "INT-294",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.",
+          "sourceApplicationId": "offshoring_deep_web",
+          "targetApplicationId": "drill_mobile",
+          "logical_server": "ONLINE",
+          "status_color": "#00FF00",
+          "pattern": "Aggregator",
+          "golive_date": "19/8/04",
+          "sme_name": "Roland Elijah",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "relijahe@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "26/1/17"
+        }
+      ]
     }
   ]
 }
